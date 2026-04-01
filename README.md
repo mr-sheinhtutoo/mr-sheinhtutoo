@@ -7,7 +7,7 @@
 **Secure Systems. Build the Future.**
 
 [![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=00ffff)](https://www.sheinhtutoo.top/)
-[![Telegram](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=telegram&logoColor=ffff00)](https://t.me/Sir_SHE1N)
+[![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=ffff00)](https://t.me/Sir_SHE1N)
 [![Email](https://img.shields.io/badge/Contact_Me-000000?style=for-the-badge&logo=gmail&logoColor=00ffff)](mailto:contact@sheinhtutoo.top)
 
 </div>
